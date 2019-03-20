@@ -1,0 +1,66 @@
+/* .nav li a{
+	padding: 8px 15px;
+} */
+.col-xs-1{
+	background-color: pink;
+	border: 1px solid #000;
+}
+.col-sm-1{
+	background-color: green;
+	border: 1px solid #000;
+}
+.col-md-1{
+	background-color: yellow;
+	border: 1px solid #000;
+}
+.col-lg-1{
+	background-color: red;
+	border: 1px solid #000;
+}
+
+.panel-default .panel-heading-blue {
+	background-color: rgb(65,122,185);
+	color: #fff;
+	font-size: 14px;
+}
+.panel-default .panel-heading-green {
+	background-color: #66B359;
+	color: #fff;
+	font-size: 14px;
+}
+
+.badge-blue1{
+	background-color: #457CBC;
+}
+.badge-blue2{
+	background-color: #69C0E0;
+}
+.badge-green{
+	background-color:#63BA58;
+}
+.badge-red{
+	background-color:#CF554F;
+}
+.badge-orange{
+	background-color:rgb(232,177,61);
+}
+.list-group-item a{
+	color: #000;
+}
+h3{
+	color:  #457CBC;
+	font-weight:bold;
+}
+h4{
+	color: red;
+	font-weight:bold;
+}
+.text{
+	color:  #457CBC;
+}
+footer{
+	height: 40px;
+	line-height: 40px;
+	color: #fff;
+	background-color: #000;
+}
